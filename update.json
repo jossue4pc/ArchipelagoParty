@@ -1,0 +1,4 @@
+{
+  "version": "1.5.1",
+  "notes": "Interfaz más liviana: cambiar de sección es instantáneo, la bitácora y el registro van más fluidos, menos animaciones de fondo (se apagan mientras juegas) y las carátulas usan menos memoria."
+}
